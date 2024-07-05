@@ -38,3 +38,4 @@ isLinear3 = isequal(y3_ax1_plus_bx2, y3_ax1_plus_y3_bx2);
 fprintf('System 1 is %s.\n', string(isLinear1));
 fprintf('System 2 is %s.\n', string(isLinear2));
 fprintf('System 3 is %s.\n', string(isLinear3));
+%%%%
